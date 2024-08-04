@@ -1,0 +1,122 @@
+* {box-sizing: border-box;} 
+
+  h1 {
+    width: 858px;
+    height: 195px;
+    margin-top: 72px;
+    margin-left: 291px;
+  }
+ 
+  .merriweather-bold {
+    font-family: "Merriweather", serif;
+    font-weight: 700;
+    font-size: 54px;
+    line-height: 64.8px;
+    text-align: center;
+    color: black;
+  }
+
+  p {
+    width: 626px;
+    height: 60px;
+    margin-left: 407px;
+  }
+
+  .roboto-mono-400 {
+    font-family: "Roboto Mono", monospace;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 34px;
+    text-align: center;
+    color: black;
+    font-optical-sizing: auto;
+  }
+
+  hr {
+    width: 640px;
+    border-width: 2px,
+  }
+
+.date {
+    width: 190px;
+    font-family: "Inter", sans-serif;
+}
+
+.date p {
+    width: 190px;
+    height: 19px;
+}
+
+.main p {
+    width: 640px;
+    height: 140px;
+    font-family: "Merriweather", serif;
+    font-weight: 400px;
+    font-size: 20px;
+    line-height: 32px;
+    margin-left: 400px;
+}
+
+h2 {
+font-family: "Inter", sans-serif;
+font-weight: 700;
+font-size: 32px;
+line-height: 51.2px;
+width: 626px;
+height: 50px;
+margin-left: 400px;
+}
+
+figure {
+    width: 640px;
+    height: 428px;
+    margin-left: 400px;
+}
+
+figure figcaption {
+ font-family: "Inter", sans-serif;
+ font-weight: 400px;
+ font-size: 16px;
+ line-height: 22.4px;
+ text-align: center;
+ width: 470px;
+ height: 44px;
+ margin-left: 70px;
+}
+
+.second-p p, ul {
+    width: 640px;
+    height: 150px;
+    font-family: "Merriweather", serif;
+    font-weight: 400px;
+    font-size: 20px;
+    line-height: 34px;
+    margin-top: 60px;
+    margin-left: 400px;
+}
+
+.greetings p {
+    width: 400px;
+    height: 100px;
+    font-family: "Merriweather", serif;
+    font-weight: 400px;
+    font-size: 20px;
+    line-height: 60px;
+    margin-top: 30px;
+}
+
+span {
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19.36px;
+    margin-left: 399px;
+}
+
+footer {
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+    margin-left: 399px;
+    width: 544px;
+    height: 78px;
+}
